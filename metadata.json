@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Nhật Ký Công Tác CNTT",
+  "description": "Ứng dụng ghi chép, theo dõi hoạt động vận hành, xử lý sự cố, bảo trì hạ tầng và xuất báo cáo công tác Công nghệ thông tin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
